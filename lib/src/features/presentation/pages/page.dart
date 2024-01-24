@@ -1,0 +1,12 @@
+export 'splash_page.dart';
+export 'register_page.dart';
+export 'login_page.dart';
+export 'register_with_name_page.dart';
+export 'discover_page.dart';
+export 'search_page.dart';
+export 'add_page.dart';
+export 'chat_page.dart';
+export 'open_photo_page.dart';
+export 'single_chat_page.dart';
+export 'profile_page.dart';
+export 'main_page.dart';
